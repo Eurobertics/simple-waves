@@ -1,0 +1,9 @@
+.idea
+node_modules
+.npmrc
+.gitignore
+src
+rollup.config.js
+package-lock.json
+.npmignore
+index.js
